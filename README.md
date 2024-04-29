@@ -9,7 +9,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/Sheersh01/count.svg" />
 </p>
 <!---
 Sheersh01/Sheersh01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
