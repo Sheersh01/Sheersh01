@@ -16,13 +16,26 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=cursor&logoColor=ffffff&labelColor=6e4aff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
+![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass&logoColor=cc6699&labelColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwind-css&logoColor=38B2AC&labelColor=ffffff)
+![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=4EA94B&labelColor=ffffff)
+![Postman](https://img.shields.io/badge/-PostmanAPI-000000?style=flat&logo=postman&logoColor=FF6C37)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=ffffff)
+![SwiperJS](https://img.shields.io/badge/-SwiperJS-000000?style=flat&logo=swiper&logoColor=ffffff)
+![GSAP](https://img.shields.io/badge/-GSAP-000000?style=flat&logo=greensock&logoColor=88CE02)
+![Locomotive Scroll](https://img.shields.io/badge/-Locomotive%20Scroll-000000?style=flat&logo=scrollreveal&logoColor=ffffff)
+![Lenis](https://img.shields.io/badge/-Lenis-000000?style=flat&logo=studiofreight&logoColor=ffffff)
+
 
 🧐 **Knowledge of:**<br>
 
