@@ -2,7 +2,7 @@ name: Generate Snake Animation 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
+    - cron: "0 0 * * *"  # daily at midnight
   workflow_dispatch:
 
 jobs:
@@ -16,6 +16,14 @@ jobs:
           github_user_name: sheersh01
           outputs: |
             ./dist/github-contribution-grid-snake.svg
+          # 👇 Customization options:
+          snake_color: '#38B2AC'          # Tailwind blue-green
+          background_color: '#00000000'   # Transparent background
+          color_snake: '#00FF00'          # Snake color
+          color_dots: '#444444, #cccccc'  # Dots: [less active, more active]
+          # speed: 1                      # Speed of snake
+          # grid_size: 13                # Optional: Grid cell size
+          # stroke: 2                    # Snake thickness
 
       - name: Push snake svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3
