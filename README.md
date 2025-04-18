@@ -94,7 +94,8 @@
 
 ### 🐍 Watch the Snake Eat My Contributions!
 
-![snake gif](https://github.com/sheersh01/sheersh01/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/sheersh01/sheersh01/output/github-contribution-grid-snake.svg)
+
 
 <!---
 ✨ README enhanced by ChatGPT ✨
