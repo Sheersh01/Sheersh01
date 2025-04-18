@@ -91,6 +91,11 @@
   <img src="https://profile-counter.glitch.me/Sheersh01/count.svg" />
 </p>
 
+
+### 🐍 Watch the Snake Eat My Contributions!
+
+![snake gif](https://github.com/sheersh01/sheersh01/blob/output/github-contribution-grid-snake.svg)
+
 <!---
 ✨ README enhanced by ChatGPT ✨
 --->
