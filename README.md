@@ -1,5 +1,6 @@
 <!-- Profile Header -->
-<h2 align="center">Hi there, I'm <strong>Sheersh Saxena 👋</strong></h2>
+<h2 align="center">Hi there, I'm <strong>Sheersh Saxena</strong> <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30px" alt="👋" style="display:inline"/></h2>
+
 <h4 align="center">🚀 Full-stack Developer | 🧠 Animation Enthusiast | 🎨 UI/UX Craftsman</h4>
 
 <p align="center">
