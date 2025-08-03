@@ -50,9 +50,11 @@
 ```
 
 🐍 Watch the Snake Eat My Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sheersh01/sheersh01/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheersh01/sheersh01/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/sheersh01/sheersh01/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 <p align="center">
   🧭 <b>Visitor Counter</b><br>
