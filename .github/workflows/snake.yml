@@ -2,35 +2,26 @@ name: Generate Snake Animation 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Every day at midnight
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Generate Snake SVG
-        uses: athul/snk@main
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: sheersh01
           outputs: |
-            ./dist/github-contribution-grid-snake.svg
-          snake_color: '#00FF00'
-          background_color: '#1A1A1A'
-          color_snake: '#00FF00'
-          color_dots: '#6600FF,#9933FF'
-          speed: 1
-          grid_size: 13
-          stroke: 2
+            ./output/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to `output` branch
+      - name: Push to GitHub Pages branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
