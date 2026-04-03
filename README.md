@@ -199,14 +199,8 @@ Got an interesting problem?
 <!-- Stats Summary Cards — generated via GitHub Actions, stored in your repo as SVGs -->
 <!-- Setup: https://github.com/vn7n24fzkq/github-profile-summary-cards -->
 <!-- Run the action once and these will auto-update daily from YOUR repo, no rate limits ever -->
-<img src="https://raw.githubusercontent.com/sheersh01/sheersh01/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/sheersh01/sheersh01/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%"/>
-<img src="https://raw.githubusercontent.com/sheersh01/sheersh01/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%"/>
-
-<img src="https://raw.githubusercontent.com/sheersh01/sheersh01/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%"/>
-<img src="https://raw.githubusercontent.com/sheersh01/sheersh01/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%"/>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sheersh01&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sheersh01&theme=transparent)
 <br/><br/>
 
 <!-- Streak — hosted on demolab.com, stable -->
@@ -214,17 +208,7 @@ Got an interesting problem?
 
 <br/><br/>
 
-<!-- Activity graph — separate stable host -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheersh01&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=00D4AA&point=FF6B6B" width="100%"/>
-
-</div>
-
-> **⚙️ One-time setup for stats cards above:**
-> 1. Go to your `sheersh01` repo → **Actions** tab → search `Profile Summary Cards`
-> 2. If not there: add [this workflow](https://github.com/vn7n24fzkq/github-profile-summary-cards) — it generates SVGs into your own repo daily
-> 3. Once set up, all 5 cards above load from *your* repo — zero rate limits, always online
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sheersh01&theme=transparent)
 
 ## `> contribution graph`
 
