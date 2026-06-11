@@ -129,7 +129,7 @@ Live multiplayer with zero board drift. Concurrent session management and Chess.
 🔁 Event-driven architecture
 ```
 
-[![Live](https://img.shields.io/badge/Live_Demo-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://e-commerce-frontend-five-gilt.vercel.app)
+[![Live](https://img.shields.io/badge/Live_Demo-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://chess-ejs.onrender.com)
 
 </td>
 </tr>
@@ -149,7 +149,7 @@ Full-stack storefront with dual payment integration, JWT auth, and performance-f
 🔒 JWT + rate limiting
 ```
 
-[![Live](https://img.shields.io/badge/Live_Demo-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://chess-ejs.onrender.com)
+[![Live](https://img.shields.io/badge/Live_Demo-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://e-commerce-frontend-five-gilt.vercel.app)
 
 </td>
 <td width="50%" valign="top">
